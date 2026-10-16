@@ -1,0 +1,9 @@
+# Do not edit manually
+# Default behavior
+*.min.css linguist-generated
+src/** linguist-detectable
+
+*.json linguist-detectable=false
+*.html linguist-vendored
+*.tsx linguist-detectable
+node_modules/* linguist-vendored
